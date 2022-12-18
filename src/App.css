@@ -1,0 +1,23 @@
+body {
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+input {
+  height: 45px;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #D4D4D4;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+input::placeholder {
+  color: #DBDBDB;
+}
+
+.w-100 {
+  width: 100%;
+}
